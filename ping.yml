@@ -1,0 +1,8 @@
+---
+
+- hosts: ec2-user@172.31.90.205
+  become: true
+  tasks:
+
+  - name: Doing Ping
+    ping:
