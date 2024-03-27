@@ -1,4 +1,2 @@
-Server1
-Server2
-Server3
-ec2-user@172.31.90.205
+Server1 apache="apache2" php="libapache2-mod-php"
+ec2-user@172.31.90.205 apache="httpd" php="php"
