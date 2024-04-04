@@ -1,2 +1,9 @@
-Server1 apache="apache2" php="libapache2-mod-php"
-ec2-user@172.31.90.205 apache="httpd" php="php"
+[web_servers]
+Server1
+ec2-user@RedHat
+
+[db_servers]
+Server2
+
+[file_servers]
+Server3
