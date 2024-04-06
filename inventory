@@ -7,3 +7,6 @@ Server2
 
 [file_servers]
 Server3
+
+[workstations]
+WorkStation
